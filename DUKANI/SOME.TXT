@@ -1,0 +1,25 @@
+?getItemQtyPurchased(26)
+ 150 
+?getItemQtySold(26)
+ 41 
+?getItemQtyOfficeUse(26)
+ 7 
+?getItemQtyReturnedInwards(26)
+ 2 
+?getItemQtyReturnedOutwards(26)
+ 5 
+?getItemQtyCreditSales(26)
+ 8 
+?getItemQtyDrawings(26)
+ 3 
+?getCurrentStockQuantity(26)
+ 106 
+?getItemClosingQty(26,#31/12/2025#)
+ 88 
+ Very nice. but still seems you didnt read all comments in this pasted text i gave you erlier hence i give you omce again to have proper modficatiiobs  eg wgat is stock if we boiught returned some ouywards, sold and returned inwards some, has bee drawn, has been debted, and office used???? and how did you integrate them to sale?? purchaes??gross/profit or purchase, so rewrite the twio modules and tell me how did you do these drawings, returns inwatds,debts,etc
+that was the ouput and desire.
+
+also inspect the ms access database present in thir directory 
+tell me its structure,
+then its VBA;
+i have in this dir the modStats and modAccountings modules 
